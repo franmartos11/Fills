@@ -13,7 +13,7 @@ export default function HeroDemo(){
                 <div className="mt-4 w-full">
                   <img
                     alt="FILLS Log"
-                    src="/fillsLogo.png"
+                    src="/fillsLogo2.png"
                     width={1200}
                     height={1200}
                     className="w-full h-auto max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg object-contain drop-shadow-2xl"
